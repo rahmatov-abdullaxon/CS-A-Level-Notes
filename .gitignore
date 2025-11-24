@@ -1,0 +1,103 @@
+# ============================
+# OS-generated files
+# ============================
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+Icon?
+._*
+
+# ============================
+# Image/Export cache files
+# ============================
+*.png~
+*.jpg~
+*.jpeg~
+*.tmp
+*.bak
+
+# ============================
+# Editor / IDE junk
+# ============================
+
+# VS Code
+.vscode/
+.vscode/*
+
+# JetBrains / PyCharm / IntelliJ
+.idea/
+*.iml
+
+# Sublime
+*.sublime-workspace
+*.sublime-project
+
+# Notepad++ backups
+*.bak
+
+# ============================
+# Python
+# ============================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# ============================
+# Node (if you ever add scripts)
+# ============================
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# ============================
+# LaTeX / Markdown tooling
+# ============================
+*.aux
+*.log
+*.out
+*.toc
+*.lot
+*.lof
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# ============================
+# Archives / temporary exports
+# ============================
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# ============================
+# Windows Git Bash artifacts
+# ============================
+*.lnk
+
+# ============================
+# Backup & temp files
+# ============================
+*.swp
+*.swo
+*~
+*.tmp
+*.temp
+*.old
+
+# ============================
+# Misc
+# ============================
+# Ignore any accidentally added compiled/executable files
+*.exe
+*.dll
+*.class
+*.o
+*.obj
